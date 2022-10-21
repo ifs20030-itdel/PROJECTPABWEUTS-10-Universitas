@@ -149,7 +149,7 @@
               </div>
               <h2 class="title"><a href="#">Misi Del</a></h2>
               <p align="center">
-                “Menjadi pusat keunggulan yang berperan dalam pemanfaatan teknologi bagi kemajuan bangsa”
+                “Menjadi pusat keunggulan yang berperan dalam pemanfaatan teknologi bagi kemajuan bangsa Indonesia”
               </p>
             </div>
           </div>
