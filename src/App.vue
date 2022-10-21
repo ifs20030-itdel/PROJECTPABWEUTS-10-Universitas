@@ -123,7 +123,7 @@
         </a>
 
       </div>
-    </div>
+    </div>  
   </section><!-- End Hero Section -->
 
     <!-- ======= About Us Section ======= -->
@@ -132,7 +132,11 @@
 
         <header class="section-header">
           <h3>Tentang Del</h3>
-          <p>a</p>
+          <p>Del adalah sebuah institusi yang berada di Sitoluama, Toba Samosir. Del dibangun oleh 
+            Jenderal TNI (Purn.) Luhut B. Pandjaitan pada tahun 2001. Del didirikan untuk meningkatkan keterampilan 
+            dan kesejahteraan masyarakat pedesaan yang kurang tersentuh pembangunan
+
+          </p>
         </header>
 
         <div class="row about-cols">
@@ -144,8 +148,8 @@
                 <div class="icon"><i class="bi bi-bezier2"></i></div>
               </div>
               <h2 class="title"><a href="#">Misi Del</a></h2>
-              <p>
-               a
+              <p align="center">
+                “Menjadi pusat keunggulan yang berperan dalam pemanfaatan teknologi bagi kemajuan bangsa”
               </p>
             </div>
           </div>
@@ -157,8 +161,12 @@
                 <div class="icon"><i class="bi bi-brightness-high"></i></div>
               </div>
               <h2 class="title"><a href="#">Tujuan Del</a></h2>
-              <p>
-               a
+              <p align="center">
+               <ol>
+                <li>Menghasilkan tenaga ahli yang berperilaku marTuhan, marRoha, marBisuk yang mempunyai ciri-ciri utama beriman dan bertaqwa kepada Tuhan Yang Maha Esa, bijak, ahli dan terampil dalam bidangnya, berwawasan luas, memiliki sifat kepemimpinan, kesadaran dan tanggung jawab sosial.</li>
+                <li>Menghasilkan karya-karya ilmiah yang memberi dampak mensejahterakan masyarakat.</li>
+                <li>Menghasilkan, mengembangkan dan menyebarluaskan ilmu pengetahuan dan teknologi melalui penyelenggaraan penelitian dan pendidikan tinggi yang berorientasi pendidikan keilmuan dan pengembangan kepribadian.</li>
+               </ol>
               </p>
             </div>
           </div>
@@ -170,8 +178,13 @@
                 <div class="icon"><i class="bi bi-book"></i></div>
               </div>
               <h2 class="title"><a href="#">Visi Del</a></h2>
-              <p>
-                a
+              <p align="">
+                <ol>
+                  <li>Menyelenggarakan dan mengembangkan proses pendidikan yang unggul, berkesinambungan, dan bermanfaat bagi masyarakat.</li>
+                  <li>Mengembangkan, menciptakan dan menyebarkan ilmu pengetahuan dan teknologi.</li>
+                  <li>Meningkatkan peran institut agar mampu menjadi pembaharu kemampuan, keterampilan pilihan rujukan dan pengembangan rekayasa karya masyarakat khususnya dalam bidang ilmu pengetahuan dan teknologi.</li>
+                  <li>Meningkatkan peran nyata kepada masyarakat melalui penerapan Tridharma Perguruan Tinggi.</li>
+                </ol>
               </p>
             </div>
           </div>
