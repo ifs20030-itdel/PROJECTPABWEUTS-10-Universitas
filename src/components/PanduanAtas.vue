@@ -1,6 +1,6 @@
 <template>
     <header id="header" class="fixed-top d-flex align-items-center header-transparent">
-    <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="logodel" class="img-fluid"></a>
+    <a href="index.html" class="logo"><img src="../../public/assets/img/logo.png" alt="logodel" class="img-fluid"></a>
     <div class="container-fluid">
       <div class="row justify-content-center align-items-center">
         <div class="mb-2 col-xl-13 d-flex align-items-center justify-content-between">
@@ -30,7 +30,8 @@
               </li>
               <li class="dropdown"><a href="#"><span>Prestasi</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
-                  <li><a href="#">Dosen IT Del</a></li>
+                  <li>
+                    <router-link to="/datadosen">Dosen IT Del</router-link></li>
                   <li><a href="#">Staf IT Del</a></li>
                   <li><a href="#">Mahasiswa IT Del</a></li>
                 </ul>
