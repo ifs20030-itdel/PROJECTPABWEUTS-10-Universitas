@@ -371,7 +371,7 @@
               <div class="glide__slide single_alumni text-center">
                 <img src="assets/img/alumni1.jpg" alt="author">
                 <h5 class="author_name">Natanael</h5>
-                <span>Software Engineer, Google</span>
+                <span>Software Engineer at Google</span>
                 <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
@@ -452,6 +452,7 @@
             <div class="single_form">
               <textarea placeholder="Pesan anda" name="message" id="message" required></textarea></div>
           </div>
+          
           <p class="form-message"></p>
           <div class="col-lg-12">
             <div class="single_form text-center">

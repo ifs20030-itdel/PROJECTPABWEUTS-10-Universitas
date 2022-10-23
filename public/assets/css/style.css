@@ -570,7 +570,7 @@ p {
     box-shadow: none
 }
 
-.navbar-toggler .dropdown .toggler-icon {
+.navbar-toggler .toggler-icon {
     width: 30px;
     height: 2px;
     background-color: #fff;
