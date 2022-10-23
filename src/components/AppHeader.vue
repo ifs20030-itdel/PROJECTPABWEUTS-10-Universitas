@@ -46,7 +46,9 @@
                         <a class="page-scroll" href="#prestasi">Prestasi</a>
                     </li>
                     <li class="nav-item">
-                        <a class="page-scroll" href="#dosen">Dosen</a>
+                        <router-link to = "/dataDosen">
+                        <p class="page-scroll">Dosen</p>
+                        </router-link>
                     </li>
                     <li class="nav-item">
                         <a class="page-scroll" href="#alumni">Alumni</a>
