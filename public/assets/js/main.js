@@ -51,5 +51,5 @@
     }));
     var wow = new WOW({ mobile: false });
     wow.init();
-    setTimeout(function() { new Glide('.glide', { type: 'slider', perView: 1, animationDuration: 1000 }).mount() }, 500);
+    setTimeout(function() { new Glide('.glide', { type: 'slider', perView: 1, autoplay: 2500 }).mount() }, 500);
 })();

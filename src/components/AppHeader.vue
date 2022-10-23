@@ -13,15 +13,28 @@
                     <span class="toggler-icon"></span>
                     <span class="toggler-icon"></span>
                 </button>
-                <div
-                    class="collapse navbar-collapse sub-menu-bar"
-                    id="navbarSupportedContent">
+                <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                     <ul id="nav" class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="page-scroll active" href="#home">Beranda</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="page-scroll" href="#about">Tentang</a>
+                    <!-- <li class="nav-item dropdown"><a href="#"><span>Fasilitas</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                        <li><a href="#">Laboratorium dan Kelas</a></li>
+                        <li><a href="#">Akomodasi</a></li>
+                        <li><a href="#">Kantin</a></li>
+                        <li><a href="#">Perpustakaan</a></li>
+                        <li><a href="#">Hiburan dan Olahraga</a></li>
+                        <li><a href="#">Ruang Terbuka</a></li>
+                        <li><a href="#">Klinik</a></li>
+                        </ul>
+                    </li> -->
+                    <li class="nav-item dropdown"><a href="#"><span>Tentang</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                        <li><a class="page-scroll" href="#features">Landasan</a></li>
+                        <li><a class="page-scroll" href="#about">Sejarah</a></li>
+                        <li><a class="page-scroll" href="#visimisi">Visi Misi</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="page-scroll" href="#blog">Berita</a>

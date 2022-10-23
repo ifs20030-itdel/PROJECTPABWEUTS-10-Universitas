@@ -22,12 +22,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="section_title text-center pb-25">
-            <h4
-              class="title wow fadeInUp"
-              data-wow-duration="1.3s"
-              data-wow-delay="0.2s">
-              Landasan Yayasan Del
-            </h4>
+            <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Landasan Yayasan Del</h4>
           </div>
         </div>
       </div>
@@ -89,7 +84,7 @@
     </div>
   </section>
 
-    <section id="blog" class="blog_area pt-120">
+  <section id="blog" class="blog_area pt-120">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6">
@@ -141,55 +136,43 @@
               </div>
           </div>
 
-            <div class="card shadow bg-body rounded mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="max-width: 700px;">
-              <div class="row g-0">
-                  <div class="col-sm-5">
-                      <img src="assets/img/news8.jpg" class="card-img-top h-100" alt="426 Mahasiswa IT Del Angkatan 2022 Resmi Dikukuhkan">
-                  </div>
-                  <div class="col-sm-7">
-                      <div class="card-body">
-                          <h5 class="card-title">426 Mahasiswa IT Del Angkatan 2022 Resmi Dikukuhkan</h5>
-                          <p class="card-text">Pada hari Jumat, 30 September 2022 diadakan Penandatanganan Nota Kesepahaman (MoU) dan Perjanjian Kerja Sama tentang Pelayanan Data Statistik</p>                
-                      </div>
-                  </div>
-              </div>
+          <div class="card shadow bg-body rounded mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" style="max-width: 700px;">
+            <div class="row g-0">
+                <div class="col-sm-5">
+                    <img src="assets/img/news8.jpg" class="card-img-top h-100" alt="426 Mahasiswa IT Del Angkatan 2022 Resmi Dikukuhkan">
+                </div>
+                <div class="col-sm-7">
+                    <div class="card-body">
+                        <h5 class="card-title">426 Mahasiswa IT Del Angkatan 2022 Resmi Dikukuhkan</h5>
+                        <p class="card-text">Pada hari Jumat, 30 September 2022 diadakan Penandatanganan Nota Kesepahaman (MoU) dan Perjanjian Kerja Sama tentang Pelayanan Data Statistik</p>                
+                    </div>
+                </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="services" class="features_area pt-120">
+  <section id="visimisi" class="features_area pt-120">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6">
           <div class="section_title text-center pb-25">
-            <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Visi Misi
-            </h4>
+            <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Visi Misi</h4>
           </div>
         </div>
       </div>
 
       <div class="row">
         <div class="col-lg-4 col-md-6">
-          <div
-            class="single_features text-center mt-60 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.2s"
-          >
+          <div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
             <i class="lni lni-briefcase"></i>
             <h4 class="features_title">Visi</h4>
-            <p>
-              Menjadi pusat keunggulan yang berperan dalam pemanfaatan teknologi bagi kemajuan bangsa.
-            </p>
+            <p>Menjadi pusat keunggulan yang berperan dalam pemanfaatan teknologi bagi kemajuan bangsa.</p>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <div
-            class="single_features text-center mt-60 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.3s"
-          >
+        <div class="col-lg-4 col-md-6"><div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s">
             <i class="lni lni-clipboard"></i>
             <h4 class="features_title">Misi</h4>
             <p>
@@ -203,11 +186,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div
-            class="single_features text-center mt-60 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.4s"
-          >
+          <div class="single_features text-center mt-60 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
             <i class="lni lni-target"></i>
             <h4 class="features_title">Tujuan</h4>
             <p>
@@ -288,33 +267,21 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_prestasi text-center mt-30 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.2s"
-          >
+          <div class="single_prestasi text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
             <span class="price">12 Ha</span>
             <h4 class="prestasi_title">Luas Kampus</h4>
             <a href="#" class="mian-btn">Lihat Peta</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_prestasi text-center mt-30 active wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.3s"
-          >
+          <div class="single_prestasi text-center mt-30 active wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s">
             <span class="price">Top 6</span>
             <p class="text-white">PTN/PTS Se-Sumatera Utara</p>
             <a href="https://www.del.ac.id/?p=12166" class="mian-btn">Data Selengkapnya</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-8 col-sm-10">
-          <div
-            class="single_prestasi text-center mt-30 wow fadeInUp"
-            data-wow-duration="1.3s"
-            data-wow-delay="0.4s"
-          >
+          <div class="single_prestasi text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
             <span class="price">80%</span>
             <h4 class="prestasi_title">Lulusan Langsung Bekerja</h4>
             <a href="#" class="mian-btn">Daftar Alumni</a>
@@ -330,11 +297,7 @@
         <div class="col-lg-6">
           <div class="section_title text-center pb-25">
             <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Dosen</h4>
-            <p class="wow fadeInUp"
-              data-wow-duration="1.3s"
-              data-wow-delay="0.4s">
-              Institut Teknologi Del selalu berupaya menciptakan lingkungan pendidikan yang sehat dengan dukungan tenaga pengajar yang ahli dan profesional.
-            </p>
+            <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Institut Teknologi Del selalu berupaya menciptakan lingkungan pendidikan yang sehat dengan dukungan tenaga pengajar yang ahli dan profesional.</p>
           </div>
         </div>
       </div>
@@ -375,9 +338,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-8 col-sm-10">
-          <div class="single_dosen mt-30 wow fadeInUp" data-wow-duration="1.3s"
-            data-wow-delay="0.4s"
-          >
+          <div class="single_dosen mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
             <img src="assets/img/dosen3.jpg" alt="dosen" />
             <div class="dosen_content">
               <h4 class="dosen_name"><a href="#">Dr. Yosef Barita Sar Manik, S.T, M.Sc.</a></h4>
@@ -400,7 +361,7 @@
     </div>
   </section>
 
-<section id="alumni" class="alumni_area pt-130 pb-130 bg_cover" style="background-image: url(assets/img/3.jpg)">
+<section id="alumni" class="alumni_area pt-130 pb-130 bg_cover" style="background-image: url(assets/img/lbp_cop.jpeg)">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8">
@@ -417,10 +378,7 @@
                 <img src="assets/img/alumni1.jpg" alt="author">
                 <h5 class="author_name">Roosen</h5>
                 <span>Back-End Developer</span>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-                vero eos accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-                </p>
+                <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
                 <img src="assets/img/alumni1.jpg" alt="author">
@@ -456,7 +414,7 @@
   </div> 
   </section>
 
-  <section id="contact" class="contact_area bg_cover pt-120 pb-130" style="background-image: url(assets/img/lbp.jpeg)">
+  <section id="contact" class="contact_area bg_cover pt-120 pb-130" style="background-image: url(assets/img/3.jpg)">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6">
