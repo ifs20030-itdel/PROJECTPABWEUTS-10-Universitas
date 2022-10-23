@@ -370,33 +370,33 @@
             <div class="glide__slides">
               <div class="glide__slide single_alumni text-center">
                 <img src="assets/img/alumni1.jpg" alt="author">
-                <h5 class="author_name">Natanael</h5>
+                <h5 class="author_name">Natanael Siregar</h5>
                 <span>Software Engineer at Google</span>
                 <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
-                <img src="assets/img/alumni1.jpg" alt="author">
-                <h5 class="author_name">Roosen</h5>
-                <span>Back-End Developer</span>
-                <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
+                <img src="assets/img/alumni2.jpeg" alt="author">
+                <h5 class="author_name">Roosen Manurung</h5>
+                <span>Back-End Developer at Amazon</span>
+                <p>Your loyalty to your captors is touching.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
-                <img src="assets/img/alumni1.jpg" alt="author">
-                <h5 class="author_name">Yoel</h5>
-                <span>Front-End Developer</span>
-                <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
+                <img src="assets/img/alumni3.jpg" alt="author">
+                <h5 class="author_name">Yoel Napitupulu</h5>
+                <span>Front-End Developer at Tokopedia</span>
+                <p>IT Del benar-benar menyediakan kebutuhan mahasiswa untuk menggapai kesuksesan.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
-                <img src="assets/img/alumni1.jpg" alt="author">
-                <h5 class="author_name">Vistar</h5>
-                <span>Software Tester</span>
-                <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
+                <img src="assets/img/alumni4.jpeg" alt="author">
+                <h5 class="author_name">Vistar Rajagukguk</h5>
+                <span>Software Tester at Gojek</span>
+                <p>Saya beruntung bisa kuliah di IT Del.</p>
               </div>
               <div class="glide__slide single_alumni text-center">
-                <img src="assets/img/alumni1.jpg" alt="author">
-                <h5 class="author_name">Nanchy</h5>
-                <span>UI/UX Designer</span>
-                <p>Kuliah di IT Del cukup melelahkan, namun semua akan indah pada waktunya.</p>
+                <img src="assets/img/alumni5.jpeg" alt="author">
+                <h5 class="author_name">Nanchy Siadari</h5>
+                <span>UI/UX Designer at Unilever</span>
+                <p>Tidak ada waktu bermain di IT Del, pandailah dalam manajemen waktu.</p>
               </div>              
             </div>
           </div>
