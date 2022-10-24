@@ -3,12 +3,10 @@
   <div class="main-panel m-5 p-5">
           <div class="content-wrapper">
             <div class="row">
-              <div class="col-lg-6 grid-margin stretch-card m-3"></div>
-            
               <div class="col-lg-12 grid-margin stretch-card">
-                <div class="card">
+                <div class="card shadow rounded">
                   <div class="card-body">
-                    <h4 class="card-title">Dosen Table</h4>
+                    <h4 class="card-title text-center">Daftar Dosen Institut Teknologi Del</h4>
                     <div class="table-responsive pt-3">
                       <table class="table table-bordered">
                         <thead>
@@ -108,10 +106,10 @@
                   </div>
                 </div>
               </div>
-              <div class="col-lg-12 grid-margin stretch-card">
-                <div class="card">
+              <div class="col-lg-12 grid-margin stretch-card mt-60">
+                <div class="card shadow rounded">
                   <div class="card-body">
-                    <h4 class="card-title">Matakuliah </h4>
+                    <h4 class="card-title text-center">Matakuliah </h4>
                     <div class="table-responsive pt-3">
                       <table class="table table-dark">
                         <thead>

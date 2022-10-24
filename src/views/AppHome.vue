@@ -359,6 +359,9 @@
           </div>
         </div>
       </div>
+      <div class="section_title text-center mt-70">
+        <router-link to="/dataDosen" class="main-btn wow fadeInUp align-self-center mx-auto" data-wow-duration="1.3s" data-wow-delay="0.7s">Lihat Daftar Dosen</router-link>
+      </div>
     </section>
   
   <section id="alumni" class="alumni_area pt-130 pb-130 bg_cover" style="background-image: url(assets/img/lbp_cop.jpeg)">
