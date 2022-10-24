@@ -383,8 +383,8 @@
                 <div class="glide__slide single_alumni text-center">
                   <img src="assets/img/alumni3.jpg" alt="author">
                   <h5 class="author_name">Yoel Napitupulu</h5>
-                  <span>Front-End Developer at Tokopedia</span>
-                  <p>IT Del benar-benar menyediakan kebutuhan mahasiswa untuk menggapai kesuksesan.</p>
+                  <span>Senior Developer at IBM</span>
+                  <p>Don't Look Back In Anger</p>
                 </div>
                 <div class="glide__slide single_alumni text-center">
                   <img src="assets/img/alumni4.jpeg" alt="author">

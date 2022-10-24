@@ -1,33 +1,25 @@
 <template>
-  
   <AppHeader />
 
-  <router-view/>
+  <router-view />
 
   <AppFooter />
 </template>
-
 
 <script>
 import AppFooter from "./components/AppFooter.vue";
 import AppHeader from "./components/AppHeader.vue";
 
-
-
 export default {
-  name: 'App',
+  name: "App",
   components: {
     AppFooter,
-    AppHeader
-  
-  }
+    AppHeader,
+  },
 };
-
 </script>
 
-
 <style>
-
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
