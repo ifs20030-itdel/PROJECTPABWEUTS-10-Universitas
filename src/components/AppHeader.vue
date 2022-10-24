@@ -14,23 +14,12 @@
                 <p1>MarTuhan-Marroha-Marbisuk</p1>
               </div>
 
-              <button
-                class="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-              >
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="toggler-icon"></span>
                 <span class="toggler-icon"></span>
                 <span class="toggler-icon"></span>
               </button>
-              <div
-                class="collapse navbar-collapse sub-menu-bar"
-                id="navbarSupportedContent"
-              >
+              <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                 <ul id="nav" class="navbar-nav ml-auto">
                   <li class="nav-item">
                     <router-link to="/" class="page-scroll">Beranda</router-link>
@@ -47,9 +36,7 @@
                         </ul>
                     </li> -->
                   <li class="nav-item dropdown">
-                    <a href="#"
-                      ><span>Tentang</span> <i class="bi bi-chevron-down"></i
-                    ></a>
+                    <a href="#"><span>Tentang</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                       <li>
                         <a class="page-scroll" href="#features">Landasan</a>
@@ -64,15 +51,13 @@
                     <a class="page-scroll" href="/#blog">Berita</a>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#faculty">Pendidikan</a>
+                    <a class="page-scroll" href="/#faculty">Pendidikan</a>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#prestasi">Prestasi</a>
+                    <a class="page-scroll" href="/#prestasi">Prestasi</a>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/dataDosen" class="page-scroll">
-                      Dosen
-                    </router-link>
+                    <router-link to="/dataDosen" class="page-scroll">Dosen</router-link>
                   </li>
                   <li class="nav-item">
                     <a class="page-scroll" href="/#alumni">Alumni</a>
