@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 import AppHome from "../views/AppHome.vue";
 import AppDataDosen from "../views/AppDataDosen.vue";
-import AppArticleSatu from "../views/AppArticleSatu.vue";
+import AppArtikelSatu from "../views/AppArtikelSatu.vue";
 
 const routes = [
   {
@@ -16,9 +16,9 @@ const routes = [
   },
   {
 
-    path: "/articlesatu",
-    name: "AppArticleSatu",
-    component: AppArticleSatu,
+    path: "/artikel",
+    name: "AppArtikelSatu",
+    component: AppArtikelSatu,
   }
 ];
 

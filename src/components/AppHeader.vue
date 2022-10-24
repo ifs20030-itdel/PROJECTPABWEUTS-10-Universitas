@@ -33,7 +33,7 @@
               >
                 <ul id="nav" class="navbar-nav ml-auto">
                   <li class="nav-item">
-                    <a class="page-scroll active" href="#home">Beranda</a>
+                    <router-link to="/" class="page-scroll active">Beranda</router-link>
                   </li>
                   <!-- <li class="nav-item dropdown"><a href="#"><span>Fasilitas</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
@@ -61,7 +61,7 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#blog">Berita</a>
+                    <router-link to="/artikel" class="page-scroll">Berita</router-link>
                   </li>
                   <li class="nav-item">
                     <a class="page-scroll" href="#faculty">Pendidikan</a>

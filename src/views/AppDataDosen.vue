@@ -2,276 +2,104 @@
   <div class="main-panel m-5 p-5">
           <div class="content-wrapper">
             <div class="row">
-              <div class="col-lg-6 grid-margin stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Basic Table</h4>
-                    <p class="card-description">
-                      Add class <code>.table</code>
-                    </p>
-                    <div class="table-responsive">
-                      <table class="table">
-                        <thead>
-                          <tr>
-                            <th>Profile</th>
-                            <th>VatNo.</th>
-                            <th>Created</th>
-                            <th>Status</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr>
-                            <td>Jacob</td>
-                            <td>53275531</td>
-                            <td>12 May 2017</td>
-                            <td><label class="badge badge-danger">Pending</label></td>
-                          </tr>
-                          <tr>
-                            <td>Messsy</td>
-                            <td>53275532</td>
-                            <td>15 May 2017</td>
-                            <td><label class="badge badge-warning">In progress</label></td>
-                          </tr>
-                          <tr>
-                            <td>John</td>
-                            <td>53275533</td>
-                            <td>14 May 2017</td>
-                            <td><label class="badge badge-info">Fixed</label></td>
-                          </tr>
-                          <tr>
-                            <td>Peter</td>
-                            <td>53275534</td>
-                            <td>16 May 2017</td>
-                            <td><label class="badge badge-success">Completed</label></td>
-                          </tr>
-                          <tr>
-                            <td>Dave</td>
-                            <td>53275535</td>
-                            <td>20 May 2017</td>
-                            <td><label class="badge badge-warning">In progress</label></td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-6 grid-margin stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Hoverable Table</h4>
-                    <p class="card-description">
-                      Add class <code>.table-hover</code>
-                    </p>
-                    <div class="table-responsive">
-                      <table class="table table-hover">
-                        <thead>
-                          <tr>
-                            <th>User</th>
-                            <th>Product</th>
-                            <th>Sale</th>
-                            <th>Status</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          <tr>
-                            <td>Jacob</td>
-                            <td>Photoshop</td>
-                            <td class="text-danger"> 28.76% <i class="ti-arrow-down"></i></td>
-                            <td><label class="badge badge-danger">Pending</label></td>
-                          </tr>
-                          <tr>
-                            <td>Messsy</td>
-                            <td>Flash</td>
-                            <td class="text-danger"> 21.06% <i class="ti-arrow-down"></i></td>
-                            <td><label class="badge badge-warning">In progress</label></td>
-                          </tr>
-                          <tr>
-                            <td>John</td>
-                            <td>Premier</td>
-                            <td class="text-danger"> 35.00% <i class="ti-arrow-down"></i></td>
-                            <td><label class="badge badge-info">Fixed</label></td>
-                          </tr>
-                          <tr>
-                            <td>Peter</td>
-                            <td>After effects</td>
-                            <td class="text-success"> 82.00% <i class="ti-arrow-up"></i></td>
-                            <td><label class="badge badge-success">Completed</label></td>
-                          </tr>
-                          <tr>
-                            <td>Dave</td>
-                            <td>53275535</td>
-                            <td class="text-success"> 98.05% <i class="ti-arrow-up"></i></td>
-                            <td><label class="badge badge-warning">In progress</label></td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
+              <div class="col-lg-6 grid-margin stretch-card m-3"></div>
+            
               <div class="col-lg-12 grid-margin stretch-card">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Bordered table</h4>
-                    <p class="card-description">
-                      Add class <code>.table-bordered</code>
-                    </p>
+                    <h4 class="card-title">Dosen Table</h4>
                     <div class="table-responsive pt-3">
                       <table class="table table-bordered">
                         <thead>
                           <tr>
-                            <th>
-                              #
-                            </th>
-                            <th>
-                              First name
-                            </th>
-                            <th>
-                              Progress
-                            </th>
-                            <th>
-                              Amount
-                            </th>
-                            <th>
-                              Deadline
-                            </th>
+                            <th>#</th>
+                            <th>Nama</th>
+                            <th>NIDN</th>
+                            <th>Aktif Start</th>
+                            <th>Aktif End</th>
+                            <th>Prodi</th>
                           </tr>
                         </thead>
                         <tbody>
                           <tr>
-                            <td>
-                              1
-                            </td>
-                            <td>
-                              Herman Beck
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
+                            <td>1</td>
+                            <td>Arie Satia Dharma, S.T, M.Kom.</td>
+                            <td>0927028002</td>
+                            <td>2013-09-19</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              2
-                            </td>
-                            <td>
-                              Messsy Adam
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $245.30
-                            </td>
-                            <td>
-                              July 1, 2015
-                            </td>
+                            <td>2</td>
+                            <td>Dr. Arlinta Christy Barus, ST., M.InfoTech.</td>
+                            <td>0117027901</td>
+                            <td>2002-11-29</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              3
-                            </td>
-                            <td>
-                              John Richards
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $138.00
-                            </td>
-                            <td>
-                              Apr 12, 2015
-                            </td>
+                            <td>3</td>
+                            <td>Dr. Johannes Harungguan Sianipar, S.T., M.T.</td>
+                            <td>0116047301</td>
+                            <td>2002-09-01</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              4
-                            </td>
-                            <td>
-                              Peter Meggik
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
+                            <td>4</td>
+                            <td>Iustisia Natalia Simbolon, S.Kom., M.T.</td>
+                            <td>0114129002</td>
+                            <td>2019-08-05</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              5
-                            </td>
-                            <td>
-                              Edward
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $ 160.25
-                            </td>
-                            <td>
-                              May 03, 2015
-                            </td>
+                            <td>5</td>
+                            <td>Nenni Mona Aruan, S.Pd., M.Si</td>
+                            <td>0128109001</td>
+                            <td>2016-09-01</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              6
-                            </td>
-                            <td>
-                              John Doe
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-info" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $ 123.21
-                            </td>
-                            <td>
-                              April 05, 2015
-                            </td>
+                            <td>6</td>
+                            <td>Tahan HJ Sihombing, S.Pd., M. App Ling (TESOL)</td>
+                            <td>0102069002</td>
+                            <td>2019-04-23</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                           <tr>
-                            <td>
-                              7
-                            </td>
-                            <td>
-                              Henry Tom
-                            </td>
-                            <td>
-                              <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                            </td>
-                            <td>
-                              $ 150.00
-                            </td>
-                            <td>
-                              June 16, 2015
-                            </td>
+                            <td>7</td>
+                            <td>Asido Saragih, S.Pd., M.Sc.</td>
+                            <td>0624109301</td>
+                            <td>2022-09-30</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
+                          </tr>
+                          <tr>
+                            <td>8</td>
+                            <td>Marojahan MT. Sigiro, ST., M.Sc</td>
+                            <td>0108098301</td>
+                            <td>2007-03-19</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>DIII-Teknologi Komputer</td>
+                          </tr>
+                          <tr>
+                            <td>9</td>
+                            <td>Ardiles Sinaga, S.T., M.T.</td>
+                            <td>0420098501</td>
+                            <td>2022-02-02</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
+                          </tr>
+                          <tr>
+                            <td>10</td>
+                            <td>Herimanto, S.Kom., M.Kom</td>
+                            <td>-</td>
+                            <td>2022-08-30</td>
+                            <td>Dosen Non-PNS</td>
+                            <td>S1 Informatika</td>
                           </tr>
                         </tbody>
                       </table>
@@ -282,246 +110,77 @@
               <div class="col-lg-12 grid-margin stretch-card">
                 <div class="card">
                   <div class="card-body">
-                    <h4 class="card-title">Inverse table</h4>
-                    <p class="card-description">
-                      Add class <code>.table-dark</code>
-                    </p>
+                    <h4 class="card-title">Matakuliah </h4>
                     <div class="table-responsive pt-3">
                       <table class="table table-dark">
                         <thead>
                           <tr>
-                            <th>
-                              #
-                            </th>
-                            <th>
-                              First name
-                            </th>
-                            <th>
-                              Amount
-                            </th>
-                            <th>
-                              Deadline
-                            </th>
+                            <th>#</th>
+                            <th>Name</th>
+                            <th>Matakuliah</th>
+                            <th>Bobot SKS</th>
                           </tr>
                         </thead>
                         <tbody>
                           <tr>
-                            <td>
-                              1
-                            </td>
-                            <td>
-                              Herman Beck
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
+                            <td>1</td>
+                            <td>Arie Satia Dharma, S.T, M.Kom.</td>
+                            <td>11S3109 - Web Based Application Development</td>
+                            <td>4 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              2
-                            </td>
-                            <td>
-                              Messsy Adam
-                            </td>
-                            <td>
-                              $245.30
-                            </td>
-                            <td>
-                              July 1, 2015
-                            </td>
+                            <td>2</td>
+                            <td>Dr. Arlinta Christy Barus, ST., M.InfoTech.</td>
+                            <td>11S3112 - Software Quality Assurance and Testing</td>
+                            <td>3 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              3
-                            </td>
-                            <td>
-                              John Richards
-                            </td>
-                            <td>
-                              $138.00
-                            </td>
-                            <td>
-                              Apr 12, 2015
-                            </td>
+                            <td>3</td>
+                            <td>Dr. Johannes Harungguan Sianipar, S.T., M.T.</td>
+                            <td>11S3105 - Information Security and Cryptography</td>
+                            <td>3 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              4
-                            </td>
-                            <td>
-                              Peter Meggik
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
+                            <td>4</td>
+                            <td>Iustisia Natalia Simbolon, S.Kom., M.T.</td>
+                            <td>12S2102 - Database</td>
+                            <td>4 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              5
-                            </td>
-                            <td>
-                              Edward
-                            </td>
-                            <td>
-                              $ 160.25
-                            </td>
-                            <td>
-                              May 03, 2015
-                            </td>
+                            <td>5</td>
+                            <td>Nenni Mona Aruan, S.Pd., M.Si</td>
+                            <td>FIS1202 - Physics</td>
+                            <td>3 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              6
-                            </td>
-                            <td>
-                              John Doe
-                            </td>
-                            <td>
-                              $ 123.21
-                            </td>
-                            <td>
-                              April 05, 2015
-                            </td>
+                            <td>6</td>
+                            <td>Tahan HJ Sihombing, S.Pd., M. App Ling (TESOL)</td>
+                            <td>KUS1201 - English</td>
+                            <td>2 SKS</td>
                           </tr>
                           <tr>
-                            <td>
-                              7
-                            </td>
-                            <td>
-                              Henry Tom
-                            </td>
-                            <td>
-                              $ 150.00
-                            </td>
-                            <td>
-                              June 16, 2015
-                            </td>
+                            <td>7</td>
+                            <td>Asido Saragih, S.Pd., M.Sc.</td>
+                            <td>10S1201 - Basic Programming</td>
+                            <td>4 SKS</td>
                           </tr>
-                        </tbody>
-                      </table>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12 stretch-card">
-                <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Table with contextual classes</h4>
-                    <p class="card-description">
-                      Add class <code>.table-{color}</code>
-                    </p>
-                    <div class="table-responsive pt-3">
-                      <table class="table table-bordered">
-                        <thead>
                           <tr>
-                            <th>
-                              #
-                            </th>
-                            <th>
-                              First name
-                            </th>
-                            <th>
-                              Product
-                            </th>
-                            <th>
-                              Amount
-                            </th>
-                            <th>
-                              Deadline
-                            </th>
+                            <td>8</td>
+                            <td>Marojahan MT. Sigiro, ST., M.Sc</td>
+                            <td>10S2202 - Computer Networks</td>
+                            <td>3 SKS</td>
                           </tr>
-                        </thead>
-                        <tbody>
-                          <tr class="table-info">
-                            <td>
-                              1
-                            </td>
-                            <td>
-                              Herman Beck
-                            </td>
-                            <td>
-                              Photoshop
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
+                          <tr>
+                            <td>9</td>
+                            <td>Ardiles Sinaga, S.T., M.T.</td>
+                            <td>11S2110 - Object-Oriented Programming</td>
+                            <td>4 SKS</td>
                           </tr>
-                          <tr class="table-warning">
-                            <td>
-                              2
-                            </td>
-                            <td>
-                              Messsy Adam
-                            </td>
-                            <td>
-                              Flash
-                            </td>
-                            <td>
-                              $245.30
-                            </td>
-                            <td>
-                              July 1, 2015
-                            </td>
-                          </tr>
-                          <tr class="table-danger">
-                            <td>
-                              3
-                            </td>
-                            <td>
-                              John Richards
-                            </td>
-                            <td>
-                              Premeire
-                            </td>
-                            <td>
-                              $138.00
-                            </td>
-                            <td>
-                              Apr 12, 2015
-                            </td>
-                          </tr>
-                          <tr class="table-success">
-                            <td>
-                              4
-                            </td>
-                            <td>
-                              Peter Meggik
-                            </td>
-                            <td>
-                              After effects
-                            </td>
-                            <td>
-                              $ 77.99
-                            </td>
-                            <td>
-                              May 15, 2015
-                            </td>
-                          </tr>
-                          <tr class="table-primary">
-                            <td>
-                              5
-                            </td>
-                            <td>
-                              Edward
-                            </td>
-                            <td>
-                              Illustrator
-                            </td>
-                            <td>
-                              $ 160.25
-                            </td>
-                            <td>
-                              May 03, 2015
-                            </td>
+                          <tr>
+                            <td>10</td>
+                            <td>Herimanto, S.Kom., M.Kom</td>
+                            <td>10S3109 - Artificial Intelligence</td>
+                            <td>3 SKS</td>
                           </tr>
                         </tbody>
                       </table>
@@ -531,6 +190,5 @@
               </div>
             </div>
           </div>
-          <!-- content-wrapper ends -->
-  </div>
+        </div>
   </template>
