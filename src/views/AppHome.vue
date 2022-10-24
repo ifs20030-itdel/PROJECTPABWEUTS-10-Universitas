@@ -270,21 +270,21 @@
             <div class="single_prestasi text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
               <span class="price">12 Ha</span>
               <h4 class="prestasi_title">Luas Kampus</h4>
-              <a href="#" class="mian-btn">Lihat Peta</a>
+              <a href="#" class="main-btn">Lihat Peta</a>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 col-sm-10">
             <div class="single_prestasi text-center mt-30 active wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s">
               <span class="price">Top 6</span>
               <p class="text-white">PTN/PTS Se-Sumatera Utara</p>
-              <a href="https://www.del.ac.id/?p=12166" class="mian-btn">Data Selengkapnya</a>
+              <a href="https://www.del.ac.id/?p=12166" class="main-btn">Data Selengkapnya</a>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 col-sm-10">
             <div class="single_prestasi text-center mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
               <span class="price">80%</span>
               <h4 class="prestasi_title">Lulusan Langsung Bekerja</h4>
-              <a href="#" class="mian-btn">Daftar Alumni</a>
+              <a href="#" class="main-btn">Daftar Alumni</a>
             </div>
           </div>
         </div>

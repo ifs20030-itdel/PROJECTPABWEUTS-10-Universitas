@@ -1366,7 +1366,7 @@ p {
     font-weight: 300
 }
 
-.single_prestasi .mian-btn {
+.single_prestasi .main-btn {
     height: 45px;
     border: 1px solid #5a5872;
     line-height: 43px;
@@ -1381,7 +1381,7 @@ p {
     margin-top: 30px
 }
 
-.single_prestasi .mian-btn:hover {
+.single_prestasi .main-btn:hover {
     background-color: rgba(90, 88, 114, .2)
 }
 
@@ -1401,7 +1401,7 @@ p {
     color: #fff
 }
 
-.single_prestasi.active .mian-btn {
+.single_prestasi.active .main-btn {
     background-color: #fff;
     border-color: #fff
 }

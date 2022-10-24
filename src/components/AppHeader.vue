@@ -33,7 +33,7 @@
               >
                 <ul id="nav" class="navbar-nav ml-auto">
                   <li class="nav-item">
-                    <router-link to="/" class="page-scroll active">Beranda</router-link>
+                    <router-link to="/" class="page-scroll">Beranda</router-link>
                   </li>
                   <!-- <li class="nav-item dropdown"><a href="#"><span>Fasilitas</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
