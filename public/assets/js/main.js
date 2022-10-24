@@ -6,20 +6,26 @@
         document.querySelector('.preloader').style.opacity = '0';
         document.querySelector('.preloader').style.display = 'none';
     }
+
     window.onscroll = function() {
         var header_navbar = document.getElementById("header_navbar");
         var logo = document.querySelector("img#logo");
         var sticky = header_navbar.offsetTop;
+        var webtitle = document.getElementById("webtitle")
+
         if (window.pageYOffset > sticky) {
             header_navbar.classList.add("sticky");
+            webtitle.classList.remove("webtitle");
             logo.setAttribute("src", "assets/img/logo.png")
         } else {
             header_navbar.classList.remove("sticky");
+            webtitle.classList.add("webtitle");
             logo.setAttribute("src", "assets/img/logo.png")
         }
         var backToTo = document.querySelector(".back-to-top");
         if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { backToTo.style.display = "block"; } else { backToTo.style.display = "none"; }
     };
+
     var pageLink = document.querySelectorAll('.page-scroll');
     pageLink.forEach(elem => {
         elem.addEventListener('click', e => {

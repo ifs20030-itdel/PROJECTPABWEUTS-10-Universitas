@@ -97,7 +97,7 @@
           <div class="col-lg-6">
             <div class="single_blog mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
               <div class="blog_image">
-                <img src="assets/img/news9.jpg" alt="blog" />
+                <router-link to="/artikel"><img src="assets/img/news9.jpg" alt="blog" /></router-link>
               </div>
               <div class="blog_content">
                 <h3 class="blog_title"><router-link to="/artikel">Penandatanganan MoU dan PKS antara IT Del dan PT Gramedia</router-link></h3>

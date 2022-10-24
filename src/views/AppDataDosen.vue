@@ -1,4 +1,5 @@
 <template>
+ <div class="pseudoheader p-5 mb-2"></div>
   <div class="main-panel m-5 p-5">
           <div class="content-wrapper">
             <div class="row">

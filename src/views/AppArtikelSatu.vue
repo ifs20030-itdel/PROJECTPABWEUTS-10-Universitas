@@ -1,6 +1,6 @@
 <template>
-
-<section id="about" class="pt-120">
+<div class="pseudoheader p-5 mb-2"></div>
+<section class="pt-120">
       <div class="about_area">
         <div class="container">
           <div class="row">
@@ -16,14 +16,13 @@
         </div>
         <div class="about_image bg_cover wow fadeInLeft" data-wow-duration="1.3s" data-wow-delay="0.2s" style="background-image: url(assets/img/news9.jpg)">
           <div class="image_content">
-            <h4 class="experience"><span>Hots!</span> Update</h4>
+            <h4 class="experience">7 September 2022</h4>
           </div>
         </div>
       </div>
     </section>
-  
               
-    <section id="visimisi" class="features_area pt-20 pb-80">
+    <section class="features_area pt-20 pb-80">
       <div class="container">
         <div class="row justify-content-center">
         </div>
@@ -51,6 +50,5 @@
           </div>
         </div>
       </div>
-
     </section>
   </template>

@@ -8,7 +8,7 @@
               <router-link to="/" class="navbar-brand" href="#">
                 <img id="logo" src="assets/img/logo.png" alt="Logo" />
               </router-link>
-              <div class="col-2">
+              <div class="webtitle col-2" id="webtitle">
                 <p3>Institut Teknologi Del</p3>
                 <hr />
                 <p1>MarTuhan-Marroha-Marbisuk</p1>
@@ -61,7 +61,7 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/artikel" class="page-scroll">Berita</router-link>
+                    <a class="page-scroll" href="/#blog">Berita</a>
                   </li>
                   <li class="nav-item">
                     <a class="page-scroll" href="#faculty">Pendidikan</a>
@@ -75,10 +75,10 @@
                     </router-link>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#alumni">Alumni</a>
+                    <a class="page-scroll" href="/#alumni">Alumni</a>
                   </li>
                   <li class="nav-item">
-                    <a class="page-scroll" href="#contact">Kontak</a>
+                    <a class="page-scroll" href="/#contact">Kontak</a>
                   </li>
                 </ul>
               </div>
