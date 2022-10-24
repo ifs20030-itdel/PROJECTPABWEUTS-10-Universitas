@@ -100,7 +100,7 @@
                 <img src="assets/img/news9.jpg" alt="blog" />
               </div>
               <div class="blog_content">
-                <h3 class="blog_title"><a href="#">Penandatanganan MoU dan PKS antara IT Del dan PT Gramedia</a></h3>
+                <h3 class="blog_title"><router-link to="/articlepertama">Penandatanganan MoU dan PKS antara IT Del dan PT Gramedia</router-link></h3>
                 <p>Pada hari Jumat, 30 September 2022 diadakan Penandatanganan Nota Kesepahaman (MoU) dan Perjanjian Kerja Sama tentang Pelayanan Data Statistik, Sharing Knowledge Terkait Data dan Indikator Statistik, Serta Pendirian Pojok Statistik antara Badan Pusat Statistik (BPS)</p>
               </div>
             </div>
