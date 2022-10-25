@@ -1,4 +1,4 @@
-# projectkelompok10
+# PROJECTPABWEUTS-10-Universitas
 
 ## Project setup
 ```
