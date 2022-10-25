@@ -4,10 +4,11 @@
     <div class="content-wrapper">
       <div class="row">
         <div class="col-lg-12 grid-margin stretch-card">
-          <div class="card shadow rounded">
+          <div class="card shadow rounded p-5">
             <div class="card-body">
-              <h4 class="card-title text-center">Daftar Dosen Institut Teknologi Del</h4>
-              <div class="text-center mt-5">
+              <h2 class="card-title text-center">Daftar Dosen Institut Teknologi Del</h2>
+              <div class="table-responsive pt-3">
+              <div class="text-center mt-3">
               <input
                 type="text"
                 class="border-2 mb-5 rounded h-10 p-2"
@@ -17,7 +18,7 @@
               />
               </div>
             </div>
-            <table>
+            <table class="table table-bordered">
               <thead>
                 <tr>
                   <th
@@ -48,13 +49,13 @@
           </div>
         </div>
       </div>
-
+    </div>
       <div class="col-lg-12 grid-margin stretch-card mt-60">
-        <div class="card shadow rounded">
+        <div class="card shadow rounded p-5">
           <div class="card-body">
-            <h4 class="card-title text-center">Matakuliah </h4>
+            <h2 class="card-title text-center">Matakuliah </h2>
             <div class="table-responsive pt-3">
-              <table class="table table-dark">
+              <table class="table table-dark mt-3">
                 <thead>
                   <tr>
                     <th>#</th>
@@ -155,6 +156,49 @@ export default {
         [
           "Dr. Arlinta Christy Barus, ST., M.InfoTech.", "0117027901", "2002-11-29", "Dosen Non-PNS", "S1 Informatika"
         ],
+        [ 
+          'Dr. Johannes Harungguan Sianipar, S.T., M.T.', '0116047301', '2002-09-01', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Iustisia Natalia Simbolon, S.Kom., M.T.', '0114129002', '2019-08-05', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Nenni Mona Aruan, S.Pd., M.Si', '0128109001', '2016-09-01', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Tahan HJ Sihombing, S.Pd., M. App Ling (TESOL)', '0102069002', '2019-04-23', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Asido Saragih, S.Pd., M.Sc.', '0624109301', '2022-09-30', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Ardiles Sinaga, S.T., M.T.', '0420098501', '2022-02-02', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Herimanto, S.Kom., M.Kom', '0220042501', '2022-08-30', 'Dosen Non-PNS', 'S1 Informatika'
+        ],
+        [ 
+          'Marojahan MT. Sigiro, ST., M.Sc', '0108098301', '2007-03-19', 'Dosen Non-PNS', 'DIII-Teknologi Komputer'
+        ],
+        [ 
+          'Guntur Petrus Boy Knight, S.T.,M.T', '0126078702', '2018-11-05', 'Dosen Non-PNS', 'S1-Teknik Elektro'
+        ],
+        [ 
+          'Dr. Fitriani Tupa Ronauli Silalahi, S.Si, M.Si', '0112039001', '2014-08-01', 'Dosen Non-PNS', 'S1-Manajemen Rekayasa'
+        ],
+        [ 
+          'Dr. Yosef Barita Sar Manik, S.T, M.Sc.', '0120057504', '2014-10-27', 'Dosen Non-PNS', 'S1-Manajemen Rekayasa'
+        ],
+        [ 
+          'Humasak Tommy Argo Simanjuntak, ST, M.ISD', '0126048301', '2007-02-01', 'Dosen Non-PNS', 'S1-Sistem Informasi'
+        ],
+        [ 
+          'Ellyas Alga Nainggolan, S.TP., M.Sc.', '0110079001', '2014-10-08', 'Dosen Non-PNS', 'S1-Teknik Bioproses'
+        ],
+        [ 
+          'Yohanssen Pratama, S.Si, M.T', '0121058702', '2015-09-29', 'Dosen Non-PNS', 'DIV-Teknologi Rekayasa Perangkat Lunak'
+        ],
+        
       ],
       rows: [],
       columns: [
@@ -213,3 +257,5 @@ export default {
   }
 }
 </script>
+
+

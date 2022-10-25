@@ -380,7 +380,7 @@
                 <div class="glide__slide single_alumni text-center">
                   <img src="assets/img/alumni2.jpeg" alt="author">
                   <h5 class="author_name">Roosen Manurung</h5>
-                  <span>Back-End Developer at Amazon</span>
+                  <span>Fullstack Developer at Amazon</span>
                   <p>Your loyalty to your captors is touching.</p>
                 </div>
                 <div class="glide__slide single_alumni text-center">
