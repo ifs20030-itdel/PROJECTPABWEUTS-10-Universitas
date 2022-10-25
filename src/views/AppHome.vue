@@ -360,7 +360,7 @@
         </div>
       </div>
       <div class="section_title text-center mt-70">
-        <router-link to="/dataDosen" class="main-btn wow fadeInUp align-self-center mx-auto" data-wow-duration="1.3s" data-wow-delay="0.7s">Lihat Daftar Dosen</router-link>
+        <router-link to="/dataDosen" class="main-btn wow fadeInUp align-self-center mx-auto" data-wow-duration="1.0s" data-wow-delay="0.5s">Lihat Daftar Dosen</router-link>
       </div>
     </section>
   
@@ -422,14 +422,13 @@
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <div class="section_title section_title_2 text-center pb-25">
-              <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Hubungi Kami
-              </h4>
+              <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s" id="hubungikami">Hubungi Kami</h4>
               <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s"> Jika anda memiliki pertanyaan ataupun saran, silakan isi form dibawah ini.
               </p>
             </div>
           </div>
         </div>
-        <form id="contact-form" action="assets/contact.php" method="post" class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
+        <form id="contact-form" class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
           <div class="row">
             <div class="col-lg-6">
               <div class="single_form">
@@ -459,7 +458,7 @@
             <p class="form-message"></p>
             <div class="col-lg-12">
               <div class="single_form text-center">
-                <button class="main-btn" type="submit">Kirim</button>
+                <button class="main-btn" type="button">Kirim</button>
               </div>
             </div>
           </div>
