@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+npm i -D eslint@7.32.0
+npm install --global yarn
 ```
 
 ### Compiles and hot-reloads for development
