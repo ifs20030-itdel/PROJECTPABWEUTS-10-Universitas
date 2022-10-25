@@ -8,7 +8,7 @@
             <div class="card-body">
               <h2 class="card-title text-center">Daftar Dosen Institut Teknologi Del</h2>
               <div class="table-responsive pt-3">
-              <div class="text-center mt-3">
+              <div class="text-center mt-3 mb-5">
               <input
                 type="text"
                 class="border-2 mb-5 rounded h-10 p-2"
