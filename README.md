@@ -1,4 +1,4 @@
-# PROJECTPABWEUTS-10-Universitas
+# Website Institut Teknologi Del
 
 ## Project setup
 ```
